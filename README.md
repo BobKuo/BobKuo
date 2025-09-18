@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1CF3A2&width=435&lines=Hi+there%2C+I'm+Bob+%F0%9F%98%8E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1CF3A2&width=435&lines=Hi+there%2C+I'm+Bob+Kuo+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 💻 **Full-stack Developer** with strong **backend expertise** and solid frontend skills.  
 I specialize in REST API design, scalable system architecture, and data-driven solutions.
